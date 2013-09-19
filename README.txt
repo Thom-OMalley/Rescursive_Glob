@@ -1,0 +1,1 @@
+This is an example of how you can use the Glob module to recursively search subfolders.  In the second example I show you how you can further narrow your results by searching for files of a certain type under a designated folder name.
